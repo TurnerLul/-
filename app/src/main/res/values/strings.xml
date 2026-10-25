@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">视频自动翻篇</string>
+    <string name="service_description">仅在你指定的学习 App 中，识别视频结束提示或播放进度，并尝试点击“下一篇”；识别不到时按你设定的分钟数进行备用点击。</string>
+</resources>
